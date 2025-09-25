@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gokul122004/Java_programs/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/gokul122004/Java_programs/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/gokul122004/Java_programs/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/gokul122004/Java_programs/tree/master/0079-word-search) |
 ## String
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gokul122004/Java_programs/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/gokul122004/Java_programs/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/gokul122004/Java_programs/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/gokul122004/Java_programs/tree/master/0079-word-search) |
 ## Trie
 |  |
 | ------- |
@@ -54,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/gokul122004/Java_programs/tree/master/0067-add-binary) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/gokul122004/Java_programs/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/gokul122004/Java_programs/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/gokul122004/Java_programs/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
