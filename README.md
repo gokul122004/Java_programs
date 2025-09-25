@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/gokul122004/Java_programs/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gokul122004/Java_programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/gokul122004/Java_programs/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -86,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/gokul122004/Java_programs/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gokul122004/Java_programs/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -108,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/gokul122004/Java_programs/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/gokul122004/Java_programs/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gokul122004/Java_programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
