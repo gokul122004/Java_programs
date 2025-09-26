@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/gokul122004/Java_programs/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1899-count-items-matching-a-rule](https://github.com/gokul122004/Java_programs/tree/master/1899-count-items-matching-a-rule) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/gokul122004/Java_programs/tree/master/1927-maximum-ascending-subarray-sum) |
 ## String
 |  |
 | ------- |
