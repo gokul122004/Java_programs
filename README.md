@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/gokul122004/Java_programs/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1899-count-items-matching-a-rule](https://github.com/gokul122004/Java_programs/tree/master/1899-count-items-matching-a-rule) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/gokul122004/Java_programs/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1944-truncate-sentence](https://github.com/gokul122004/Java_programs/tree/master/1944-truncate-sentence) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/gokul122004/Java_programs/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/gokul122004/Java_programs/tree/master/0171-excel-sheet-column-number) |
 | [1899-count-items-matching-a-rule](https://github.com/gokul122004/Java_programs/tree/master/1899-count-items-matching-a-rule) |
+| [1944-truncate-sentence](https://github.com/gokul122004/Java_programs/tree/master/1944-truncate-sentence) |
 ## Trie
 |  |
 | ------- |
