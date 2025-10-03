@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/gokul122004/Java_programs/tree/master/1944-truncate-sentence) |
 | [3412-permutation-difference-between-two-strings](https://github.com/gokul122004/Java_programs/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/gokul122004/Java_programs/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3447-clear-digits](https://github.com/gokul122004/Java_programs/tree/master/3447-clear-digits) |
 ## Trie
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gokul122004/Java_programs/tree/master/0020-valid-parentheses) |
+| [3447-clear-digits](https://github.com/gokul122004/Java_programs/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/gokul122004/Java_programs/tree/master/0067-add-binary) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/gokul122004/Java_programs/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3447-clear-digits](https://github.com/gokul122004/Java_programs/tree/master/3447-clear-digits) |
 ## Backtracking
 |  |
 | ------- |
