@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/gokul122004/Java_programs/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/gokul122004/Java_programs/tree/master/1944-truncate-sentence) |
 | [3412-permutation-difference-between-two-strings](https://github.com/gokul122004/Java_programs/tree/master/3412-permutation-difference-between-two-strings) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/gokul122004/Java_programs/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Trie
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/gokul122004/Java_programs/tree/master/0067-add-binary) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/gokul122004/Java_programs/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Backtracking
 |  |
 | ------- |
