@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/gokul122004/Java_programs/tree/master/0171-excel-sheet-column-number) |
 | [1899-count-items-matching-a-rule](https://github.com/gokul122004/Java_programs/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/gokul122004/Java_programs/tree/master/1944-truncate-sentence) |
+| [3412-permutation-difference-between-two-strings](https://github.com/gokul122004/Java_programs/tree/master/3412-permutation-difference-between-two-strings) |
 ## Trie
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
+| [3412-permutation-difference-between-two-strings](https://github.com/gokul122004/Java_programs/tree/master/3412-permutation-difference-between-two-strings) |
 ## Counting
 |  |
 | ------- |
