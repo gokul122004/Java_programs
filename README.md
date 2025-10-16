@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gokul122004/Java_programs/tree/master/0021-merge-two-sorted-lists) |
+| [0390-elimination-game](https://github.com/gokul122004/Java_programs/tree/master/0390-elimination-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/gokul122004/Java_programs/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/gokul122004/Java_programs/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/gokul122004/Java_programs/tree/master/0171-excel-sheet-column-number) |
+| [0390-elimination-game](https://github.com/gokul122004/Java_programs/tree/master/0390-elimination-game) |
 ## Bit Manipulation
 |  |
 | ------- |
