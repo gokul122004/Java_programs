@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/gokul122004/Java_programs/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/gokul122004/Java_programs/tree/master/0171-excel-sheet-column-number) |
 | [0720-longest-word-in-dictionary](https://github.com/gokul122004/Java_programs/tree/master/0720-longest-word-in-dictionary) |
+| [1764-maximum-repeating-substring](https://github.com/gokul122004/Java_programs/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/gokul122004/Java_programs/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/gokul122004/Java_programs/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/gokul122004/Java_programs/tree/master/1944-truncate-sentence) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/gokul122004/Java_programs/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/gokul122004/Java_programs/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gokul122004/Java_programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1764-maximum-repeating-substring](https://github.com/gokul122004/Java_programs/tree/master/1764-maximum-repeating-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/gokul122004/Java_programs/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
