@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gokul122004/Java_programs/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gokul122004/Java_programs/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/gokul122004/Java_programs/tree/master/0283-move-zeroes) |
 | [0720-longest-word-in-dictionary](https://github.com/gokul122004/Java_programs/tree/master/0720-longest-word-in-dictionary) |
 | [0837-most-common-word](https://github.com/gokul122004/Java_programs/tree/master/0837-most-common-word) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/gokul122004/Java_programs/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gokul122004/Java_programs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/gokul122004/Java_programs/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/gokul122004/Java_programs/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/gokul122004/Java_programs/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
