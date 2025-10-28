@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gokul122004/Java_programs/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gokul122004/Java_programs/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/gokul122004/Java_programs/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/gokul122004/Java_programs/tree/master/0283-move-zeroes) |
 | [0720-longest-word-in-dictionary](https://github.com/gokul122004/Java_programs/tree/master/0720-longest-word-in-dictionary) |
 | [0837-most-common-word](https://github.com/gokul122004/Java_programs/tree/master/0837-most-common-word) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1764-maximum-repeating-substring](https://github.com/gokul122004/Java_programs/tree/master/1764-maximum-repeating-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/gokul122004/Java_programs/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
