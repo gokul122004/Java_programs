@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gokul122004/Java_programs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gokul122004/Java_programs/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/gokul122004/Java_programs/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/gokul122004/Java_programs/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/gokul122004/Java_programs/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/gokul122004/Java_programs/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gokul122004/Java_programs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/gokul122004/Java_programs/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/gokul122004/Java_programs/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
 | [0720-longest-word-in-dictionary](https://github.com/gokul122004/Java_programs/tree/master/0720-longest-word-in-dictionary) |
