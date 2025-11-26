@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gokul122004/Java_programs/tree/master/0283-move-zeroes) |
 | [0720-longest-word-in-dictionary](https://github.com/gokul122004/Java_programs/tree/master/0720-longest-word-in-dictionary) |
 | [0837-most-common-word](https://github.com/gokul122004/Java_programs/tree/master/0837-most-common-word) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/gokul122004/Java_programs/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/gokul122004/Java_programs/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/gokul122004/Java_programs/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1899-count-items-matching-a-rule](https://github.com/gokul122004/Java_programs/tree/master/1899-count-items-matching-a-rule) |
@@ -79,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/gokul122004/Java_programs/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/gokul122004/Java_programs/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/gokul122004/Java_programs/tree/master/0283-move-zeroes) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/gokul122004/Java_programs/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/gokul122004/Java_programs/tree/master/0035-search-insert-position) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/gokul122004/Java_programs/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/gokul122004/Java_programs/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
 | [0720-longest-word-in-dictionary](https://github.com/gokul122004/Java_programs/tree/master/0720-longest-word-in-dictionary) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/gokul122004/Java_programs/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
 | [0720-longest-word-in-dictionary](https://github.com/gokul122004/Java_programs/tree/master/0720-longest-word-in-dictionary) |
 | [0837-most-common-word](https://github.com/gokul122004/Java_programs/tree/master/0837-most-common-word) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/gokul122004/Java_programs/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3412-permutation-difference-between-two-strings](https://github.com/gokul122004/Java_programs/tree/master/3412-permutation-difference-between-two-strings) |
 ## Counting
 |  |
