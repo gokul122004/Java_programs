@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/gokul122004/Java_programs/tree/master/0720-longest-word-in-dictionary) |
 | [0837-most-common-word](https://github.com/gokul122004/Java_programs/tree/master/0837-most-common-word) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gokul122004/Java_programs/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul122004/Java_programs/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/gokul122004/Java_programs/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/gokul122004/Java_programs/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1899-count-items-matching-a-rule](https://github.com/gokul122004/Java_programs/tree/master/1899-count-items-matching-a-rule) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
 | [0720-longest-word-in-dictionary](https://github.com/gokul122004/Java_programs/tree/master/0720-longest-word-in-dictionary) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gokul122004/Java_programs/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul122004/Java_programs/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/gokul122004/Java_programs/tree/master/0720-longest-word-in-dictionary) |
 | [0837-most-common-word](https://github.com/gokul122004/Java_programs/tree/master/0837-most-common-word) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gokul122004/Java_programs/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul122004/Java_programs/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3412-permutation-difference-between-two-strings](https://github.com/gokul122004/Java_programs/tree/master/3412-permutation-difference-between-two-strings) |
 ## Counting
 |  |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/gokul122004/Java_programs/tree/master/0238-product-of-array-except-self) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul122004/Java_programs/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
