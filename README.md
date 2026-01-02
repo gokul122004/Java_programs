@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gokul122004/Java_programs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/gokul122004/Java_programs/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/gokul122004/Java_programs/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/gokul122004/Java_programs/tree/master/0058-length-of-last-word) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gokul122004/Java_programs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
 | [0720-longest-word-in-dictionary](https://github.com/gokul122004/Java_programs/tree/master/0720-longest-word-in-dictionary) |
 | [0837-most-common-word](https://github.com/gokul122004/Java_programs/tree/master/0837-most-common-word) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul122004/Java_programs/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gokul122004/Java_programs/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
