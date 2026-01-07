@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/gokul122004/Java_programs/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/gokul122004/Java_programs/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/gokul122004/Java_programs/tree/master/0657-robot-return-to-origin) |
+| [0709-to-lower-case](https://github.com/gokul122004/Java_programs/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/gokul122004/Java_programs/tree/master/0720-longest-word-in-dictionary) |
 | [0837-most-common-word](https://github.com/gokul122004/Java_programs/tree/master/0837-most-common-word) |
 | [1764-maximum-repeating-substring](https://github.com/gokul122004/Java_programs/tree/master/1764-maximum-repeating-substring) |
