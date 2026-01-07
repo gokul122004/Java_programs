@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/gokul122004/Java_programs/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/gokul122004/Java_programs/tree/master/0171-excel-sheet-column-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/gokul122004/Java_programs/tree/master/0424-longest-repeating-character-replacement) |
+| [0459-repeated-substring-pattern](https://github.com/gokul122004/Java_programs/tree/master/0459-repeated-substring-pattern) |
 | [0720-longest-word-in-dictionary](https://github.com/gokul122004/Java_programs/tree/master/0720-longest-word-in-dictionary) |
 | [0837-most-common-word](https://github.com/gokul122004/Java_programs/tree/master/0837-most-common-word) |
 | [1764-maximum-repeating-substring](https://github.com/gokul122004/Java_programs/tree/master/1764-maximum-repeating-substring) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/gokul122004/Java_programs/tree/master/0459-repeated-substring-pattern) |
 | [1764-maximum-repeating-substring](https://github.com/gokul122004/Java_programs/tree/master/1764-maximum-repeating-substring) |
 ## Prefix Sum
 |  |
