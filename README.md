@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/gokul122004/Java_programs/tree/master/0837-most-common-word) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gokul122004/Java_programs/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul122004/Java_programs/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/gokul122004/Java_programs/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/gokul122004/Java_programs/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/gokul122004/Java_programs/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1899-count-items-matching-a-rule](https://github.com/gokul122004/Java_programs/tree/master/1899-count-items-matching-a-rule) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/gokul122004/Java_programs/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/gokul122004/Java_programs/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gokul122004/Java_programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/gokul122004/Java_programs/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1764-maximum-repeating-substring](https://github.com/gokul122004/Java_programs/tree/master/1764-maximum-repeating-substring) |
 ## Hash Table
 |  |
