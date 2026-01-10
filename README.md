@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/gokul122004/Java_programs/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/gokul122004/Java_programs/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/gokul122004/Java_programs/tree/master/0709-to-lower-case) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gokul122004/Java_programs/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/gokul122004/Java_programs/tree/master/0720-longest-word-in-dictionary) |
 | [0837-most-common-word](https://github.com/gokul122004/Java_programs/tree/master/0837-most-common-word) |
 | [1764-maximum-repeating-substring](https://github.com/gokul122004/Java_programs/tree/master/1764-maximum-repeating-substring) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/gokul122004/Java_programs/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/gokul122004/Java_programs/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gokul122004/Java_programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gokul122004/Java_programs/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/gokul122004/Java_programs/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1764-maximum-repeating-substring](https://github.com/gokul122004/Java_programs/tree/master/1764-maximum-repeating-substring) |
 ## Hash Table
