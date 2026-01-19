@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/gokul122004/Java_programs/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/gokul122004/Java_programs/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/gokul122004/Java_programs/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/gokul122004/Java_programs/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/gokul122004/Java_programs/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/gokul122004/Java_programs/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/gokul122004/Java_programs/tree/master/0079-word-search) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gokul122004/Java_programs/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/gokul122004/Java_programs/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gokul122004/Java_programs/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
 ## Tree
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gokul122004/Java_programs/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/gokul122004/Java_programs/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/gokul122004/Java_programs/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/gokul122004/Java_programs/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/gokul122004/Java_programs/tree/master/0119-pascals-triangle-ii) |
