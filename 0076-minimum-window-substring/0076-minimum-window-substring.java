@@ -22,11 +22,11 @@ class Solution {
         int minLength = Integer.MAX_VALUE;
         int minLeft = 0;
 
-        while (right < s.length()) {
+        while (right  <s.length()) {
             char c = s.charAt(right);
             windowFreq[c]++;
 
-            if (tFreq[c] > 0 && windowFreq[c] == tFreq[c]) {
+            if(tFreq[c] > 0 && windowFreq[c] == tFreq[c]) {
                 formed++;
             }
 
