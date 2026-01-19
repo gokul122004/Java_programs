@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gokul122004/Java_programs/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/gokul122004/Java_programs/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/gokul122004/Java_programs/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gokul122004/Java_programs/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/gokul122004/Java_programs/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/gokul122004/Java_programs/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gokul122004/Java_programs/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
@@ -245,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gokul122004/Java_programs/tree/master/0011-container-with-most-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/gokul122004/Java_programs/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/gokul122004/Java_programs/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
