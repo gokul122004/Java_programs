@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gokul122004/Java_programs/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gokul122004/Java_programs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/gokul122004/Java_programs/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/gokul122004/Java_programs/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/gokul122004/Java_programs/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/gokul122004/Java_programs/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/gokul122004/Java_programs/tree/master/0048-rotate-image) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gokul122004/Java_programs/tree/master/0037-sudoku-solver) |
 | [0077-combinations](https://github.com/gokul122004/Java_programs/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/gokul122004/Java_programs/tree/master/0079-word-search) |
 ## Depth-First Search
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gokul122004/Java_programs/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/gokul122004/Java_programs/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/gokul122004/Java_programs/tree/master/0079-word-search) |
 ## Sorting
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gokul122004/Java_programs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/gokul122004/Java_programs/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/gokul122004/Java_programs/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/gokul122004/Java_programs/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/gokul122004/Java_programs/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/gokul122004/Java_programs/tree/master/0076-minimum-window-substring) |
