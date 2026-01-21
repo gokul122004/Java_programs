@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gokul122004/Java_programs/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gokul122004/Java_programs/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/gokul122004/Java_programs/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/gokul122004/Java_programs/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/gokul122004/Java_programs/tree/master/0283-move-zeroes) |
 | [0720-longest-word-in-dictionary](https://github.com/gokul122004/Java_programs/tree/master/0720-longest-word-in-dictionary) |
@@ -164,12 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/gokul122004/Java_programs/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/gokul122004/Java_programs/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/gokul122004/Java_programs/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/gokul122004/Java_programs/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/gokul122004/Java_programs/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/gokul122004/Java_programs/tree/master/0200-number-of-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/gokul122004/Java_programs/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/gokul122004/Java_programs/tree/master/0200-number-of-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -281,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gokul122004/Java_programs/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gokul122004/Java_programs/tree/master/0084-largest-rectangle-in-histogram) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/gokul122004/Java_programs/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
