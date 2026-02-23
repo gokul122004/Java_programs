@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/gokul122004/Java_programs/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/gokul122004/Java_programs/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/gokul122004/Java_programs/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/gokul122004/Java_programs/tree/master/0347-top-k-frequent-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/gokul122004/Java_programs/tree/master/0720-longest-word-in-dictionary) |
 | [0837-most-common-word](https://github.com/gokul122004/Java_programs/tree/master/0837-most-common-word) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gokul122004/Java_programs/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/gokul122004/Java_programs/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/gokul122004/Java_programs/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/gokul122004/Java_programs/tree/master/0347-top-k-frequent-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/gokul122004/Java_programs/tree/master/0720-longest-word-in-dictionary) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gokul122004/Java_programs/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul122004/Java_programs/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/gokul122004/Java_programs/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gokul122004/Java_programs/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/gokul122004/Java_programs/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/gokul122004/Java_programs/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/gokul122004/Java_programs/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/gokul122004/Java_programs/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/gokul122004/Java_programs/tree/master/0424-longest-repeating-character-replacement) |
 | [0720-longest-word-in-dictionary](https://github.com/gokul122004/Java_programs/tree/master/0720-longest-word-in-dictionary) |
 | [0837-most-common-word](https://github.com/gokul122004/Java_programs/tree/master/0837-most-common-word) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gokul122004/Java_programs/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/gokul122004/Java_programs/tree/master/0347-top-k-frequent-elements) |
 | [0837-most-common-word](https://github.com/gokul122004/Java_programs/tree/master/0837-most-common-word) |
 ## String Matching
 |  |
@@ -276,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gokul122004/Java_programs/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/gokul122004/Java_programs/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -289,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gokul122004/Java_programs/tree/master/0200-number-of-islands) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/gokul122004/Java_programs/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/gokul122004/Java_programs/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
